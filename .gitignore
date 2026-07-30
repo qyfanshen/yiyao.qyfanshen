@@ -33,3 +33,9 @@ cache/
 config.php
 database.php
 install.php
+*.bak*
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
