@@ -13,6 +13,8 @@
 
 ---
 
+**医药企业数字化智慧管理平台** 面向医药企业——GMP 合规、生产、库存与员工端全流程数字化管理。
+
 [English](README.md) | [中文](README.zh.md)
 
 ## 核心使用场景
@@ -39,15 +41,19 @@
 
 ## 截图预览
 
-通过本地服务 + 无头浏览器渲染的真实截图：
+实地登录后台的真实截图：
 
-### 首页预览
+### 首页
 
-![首页预览](screenshots/preview.png)
+![首页](screenshots/preview.png)
 
-### 概览流程（大视口）
+### 员工端（登录后）
 
-![概览流程（大视口）](screenshots/flow-overview.png)
+![员工端](screenshots/work-console.png)
+
+### 管理端（登录后）
+
+![管理端](screenshots/admin-console.png)
 
 ---
 
