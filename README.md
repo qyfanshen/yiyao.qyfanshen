@@ -2,6 +2,8 @@
 
 > Digital & Smart Management Platform for Pharmaceutical Enterprises
 
+> 🚀 **[Live Demo](https://yiyao.qyfanshen.com)** · 📚 **[Docs](docs/)** · 📋 **[Quick Start](docs/QUICKSTART.md)** · 🐛 **[Report Bug](https://github.com/qyfanshen/yiyao.qyfanshen/issues)** · ⭐ **[Star](https://github.com/qyfanshen/yiyao.qyfanshen)**
+
 ![preview](screenshots/preview.png)
 <p align="center">
   <a href="https://github.com/qyfanshen/yiyao.qyfanshen"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
